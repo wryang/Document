@@ -1,6 +1,8 @@
 Document
 ========
-Summary
+
+<strong>Summary</strong>
+
 The god of this project is just to make a demo to show how to use design pattern in real project.
 This project is a text editor with base function. But the codes here is just part of it, so it cannot run actually.  
 
